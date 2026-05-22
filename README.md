@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Hoang</h1>
+<h1 align="left">Hi, I'm Huu Hoang</h1>
 <h3 align="left">A passionate AI engineer from Vietnam</h3>
 
 - 🔭 I’m currently working on **Lendo Stylix**
