@@ -1,6 +1,6 @@
 <h1 align="left">
   Hi, I'm Huu Hoang 
-  <img src="https://media1.tenor.com/m/8xuIzvCK5kcAAAAC/among-us-sus.gif" width="40" />
+  <img src="https://media.tenor.com/WUPM6t4zT-kAAAAi/made-by-rafi-amongus.gif" width="40" />
 </h1>
 <h3 align="left">A passionate AI engineer from Vietnam</h3>
 
