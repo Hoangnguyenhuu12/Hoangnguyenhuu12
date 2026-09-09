@@ -1,22 +1,39 @@
-# Hi there, I'm Huu Hoang 🚀
+<h1 align="left">
+  Hi, I'm Huu Hoang 
+  <img src="made-by-rafi-amongus.gif" width="40" />
+</h1>
+<h3 align="left">A passionate AI engineer from Vietnam</h3>
 
-I specialize in building intelligent systems, focusing on **Computer Vision**, **Machine Learning**, and **Agentic RAG pipelines**. When I'm not vibing with code or optimizing vector databases, you'll probably find me training for my next marathon or out shooting street photography.
+- 🔭 I’m currently working on **Nothing**
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
+- 🌱 I’m currently learning **TOEIC**
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoangnguyenhuu12&show_icons=true&theme=dark&hide_border=true&v=2" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoangnguyenhuu12&layout=compact&theme=dark&hide_border=true&v=2" alt="Top Langs" width="48%">
+- 👯 I’m looking to collaborate on **Computer Vision**
+
+- 🤝 I’m looking for help with **TOCFL**
+
+- 👨‍💻 All of my projects are available at [github.com/Hoangnguyenhuu12](https://github.com/Hoangnguyenhuu12)
+
+- 💬 Ask me about **python**
+
+- 📫 How to reach me **nguyenhuuhoang21092006@gmail.com**
+
+- 📄 Know about my experiences [https://canva.link/7y7m75vqa5ky05c](https://canva.link/7y7m75vqa5ky05c)
+
+- ⚡ Fun fact **I'm an ultra marathoner**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/toilanhims/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/toilanhims/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/huwux.hoangf/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/huwux.hoangf/?hl=en" height="30" width="40" /></a>
 </p>
 
-### 🐍 Contribution Activity
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+### Contribution Activity
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/dist/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/dist/github-snake.svg">
 </picture>
