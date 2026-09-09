@@ -1,6 +1,6 @@
 <h1 align="left">
   Hi, I'm Huu Hoang 
-  <img src="https://media.tenor.com/WUPM6t4zT-kAAAAi/made-by-rafi-amongus.gif" width="40" />
+  <img src="https://media.tenor.com/WUPM6t4zT-kAAAAi/made-by-rafi-amongus.gif" width="30" />
 </h1>
 <h3 align="left">A passionate AI engineer from Vietnam</h3>
 
@@ -33,7 +33,7 @@
 
 <h3 align="left">Contribution Activity:</h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/dist/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/github-snake.svg">
 </picture>
