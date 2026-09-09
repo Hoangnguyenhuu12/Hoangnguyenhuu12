@@ -10,13 +10,13 @@ I specialize in building intelligent systems, focusing on **Computer Vision**, *
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoangnguyenhuu12&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoangnguyenhuu12&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333" alt="Top Langs" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hoangnguyenhuu12&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&v=1" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoangnguyenhuu12&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333&v=1" alt="Top Langs" width="48%">
 </p>
 
 ### 🐍 Contribution Activity
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/dist/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hoangnguyenhuu12/Hoangnguyenhuu12/output/github-snake.svg">
 </picture>
