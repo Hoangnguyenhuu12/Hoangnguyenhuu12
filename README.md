@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking for help with: **TOCFL**
 
-- 👨‍💻 All of my projects are available at: [github.com/Hoangnguyenhuu12](https://github.com/Hoangnguyenhuu12)
+- 👨‍💻 All of my projects are available at: [Hoangnguyenhuu12](https://github.com/Hoangnguyenhuu12)
 
 - 💬 Ask me about: **python**
 
 - 📫 How to reach me: **nguyenhuuhoang21092006@gmail.com**
 
-- 📄 Know about my experiences: [https://canva.link/7y7m75vqa5ky05c](https://canva.link/7y7m75vqa5ky05c)
+- 📄 Know about my experiences: [Resume](https://canva.link/7y7m75vqa5ky05c)
 
 - ⚡ Fun fact: **I'm an ultra marathoner**
 
