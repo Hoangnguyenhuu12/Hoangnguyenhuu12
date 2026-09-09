@@ -9,10 +9,8 @@ I specialize in building intelligent systems, focusing on **Computer Vision**, *
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoangnguyenhuu12&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&v=1" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoangnguyenhuu12&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333&v=1" alt="Top Langs" width="48%">
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hoangnguyenhuu12&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9e9e9e&icon_color=ffffff)](https://github.com/Hoangnguyenhuu12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoangnguyenhuu12&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9e9e9e)](https://github.com/Hoangnguyenhuu12)
 
 ### 🐍 Contribution Activity
 <picture>
