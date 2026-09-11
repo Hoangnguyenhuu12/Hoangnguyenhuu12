@@ -4,23 +4,23 @@
 </h1>
 <h3 align="left">A passionate AI engineer from Vietnam</h3>
 
-- 🔭 I’m currently working on: **Nothing**
+- I’m currently working on: **Nothing**
 
-- 🌱 I’m currently learning: **TOEIC**
+- I’m currently learning: **TOEIC**
 
-- 👯 I’m looking to collaborate on: **Computer Vision**
+- I’m looking to collaborate on: **Computer Vision**
 
-- 🤝 I’m looking for help with: **TOCFL**
+- I’m looking for help with: **TOCFL**
 
-- 👨‍💻 All of my projects are available at: [Hoangnguyenhuu12](https://github.com/Hoangnguyenhuu12)
+- All of my projects are available at: [Hoangnguyenhuu12](https://github.com/Hoangnguyenhuu12)
 
-- 💬 Ask me about: **python**
+- Ask me about: **python**
 
-- 📫 How to reach me: **nguyenhuuhoang21092006@gmail.com**
+- How to reach me: **nguyenhuuhoang21092006@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://canva.link/7y7m75vqa5ky05c)
+- Know about my experiences: [Resume](https://canva.link/7y7m75vqa5ky05c)
 
-- ⚡ Fun fact: **I'm an ultra marathoner**
+- Fun fact: **I'm an ultra marathoner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
