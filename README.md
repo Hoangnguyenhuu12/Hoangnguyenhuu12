@@ -18,7 +18,7 @@
 
 - How to reach me: **nguyenhuuhoang21092006@gmail.com**
 
-- Know about my experiences: [Resume](https://canva.link/7y7m75vqa5ky05c)
+- Know about my experiences: [Portfolio](https://huuhoangportfolio.vercel.app/)
 
 - Fun fact: **I'm an ultra marathoner**
 
