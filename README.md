@@ -10,7 +10,7 @@
 
 - I’m looking to collaborate on: **Computer Vision**
 
-- I’m looking for help with: **TOCFL**
+- I’m looking for help with: **NLP301c**
 
 - All of my projects are available at: [Hoangnguyenhuu12](https://github.com/Hoangnguyenhuu12)
 
@@ -18,7 +18,7 @@
 
 - How to reach me: **nguyenhuuhoang21092006@gmail.com**
 
-- Know about my experiences: [Portfolio](https://huuhoangportfolio.vercel.app/)
+- Know about my experiences: [My Portfolio](https://huuhoangportfolio.vercel.app/)
 
 - Fun fact: **I'm an ultra marathoner**
 
