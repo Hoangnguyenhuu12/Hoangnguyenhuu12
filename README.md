@@ -4,7 +4,7 @@
 </h1>
 <h3 align="left">A passionate AI engineer from Vietnam</h3>
 
-- I’m currently working on: **Nothing**
+- I’m currently working on: **hi**
 
 - I’m currently learning: **TOEIC**
 
