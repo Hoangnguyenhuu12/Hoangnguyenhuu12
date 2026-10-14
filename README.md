@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi, I'm Huu Hoang 
+  Hi, I'm Huu Hoang
   <img src="https://media.tenor.com/WUPM6t4zT-kAAAAi/made-by-rafi-amongus.gif" width="30" />
 </h1>
 <h3 align="left">A passionate AI engineer from Vietnam</h3>
