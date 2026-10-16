@@ -6,7 +6,7 @@
 
 - I’m currently working on: **Nothing**
 
-- I’m currently learning: **TOEIC** 
+- I’m currently learning: **TOEIC**
 
 - I’m looking to collaborate on: **Computer Vision**
 
