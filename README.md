@@ -4,13 +4,13 @@
 </h1>
 <h3 align="left">A passionate AI engineer from Vietnam</h3>
 
-- I’m currently working on: **Nothing** 
+- I’m currently working on: **Hackathon** 
 
 - I’m currently learning: **TOEIC**
 
 - I’m looking to collaborate on: **Computer Vision**
 
-- I’m looking for help with: **NLP301c**
+- I’m looking for help with: **Hackathon**
 
 - All of my projects are available at: [Hoangnguyenhuu12](https://github.com/Hoangnguyenhuu12)
 
