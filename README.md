@@ -4,13 +4,13 @@
 </h1>
 <h3 align="left">A passionate AI engineer from Vietnam</h3>
 
-- I’m currently working on: **Hackathon** 
+- I’m currently working on: **OJT** 
 
-- I’m currently learning: **TOEIC**
+- I’m currently learning: **alot of things**
 
 - I’m looking to collaborate on: **Computer Vision**
 
-- I’m looking for help with: **Hackathon**
+- I’m looking for: **someone with similar interests**
 
 - All of my projects are available at: [Hoangnguyenhuu12](https://github.com/Hoangnguyenhuu12)
 
@@ -20,7 +20,7 @@
 
 - Know about my experiences: [My Portfolio](https://huuhoangportfolio.vercel.app/)
 
-- Fun fact: **I'm an ultra marathoner**
+- Fun fact: **I love running and eating**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
